@@ -1,0 +1,22 @@
+{
+  "name": "@mjmtesting/first-package",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0",
+  "description": "Some first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickjeon/first-package.git"
+  },
+  "author": "micktropolis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mickjeon/first-package/issues"
+  },
+  "homepage": "https://github.com/mickjeon/first-package#readme"
+}
